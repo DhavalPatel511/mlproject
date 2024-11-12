@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/dhava/OneDrive/Desktop/mlproject/mlproject/mlruns/0/e7482a27d49b45e2b14fe3bd7364f052/artifacts
+end_time: 1731380531660
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e7482a27d49b45e2b14fe3bd7364f052
+run_name: suave-tern-346
+run_uuid: e7482a27d49b45e2b14fe3bd7364f052
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731380526323
+status: 3
+tags: []
+user_id: dhava
