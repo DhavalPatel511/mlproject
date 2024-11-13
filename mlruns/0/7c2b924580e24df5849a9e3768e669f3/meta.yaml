@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/dhava/OneDrive/Desktop/mlproject/mlproject/mlruns/0/7c2b924580e24df5849a9e3768e669f3/artifacts
+end_time: 1731457165864
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7c2b924580e24df5849a9e3768e669f3
+run_name: omniscient-elk-397
+run_uuid: 7c2b924580e24df5849a9e3768e669f3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731457160835
+status: 3
+tags: []
+user_id: dhava

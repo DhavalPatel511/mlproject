@@ -39,4 +39,4 @@ class ModelEvaluationConfig:
     all_params: dict
     metric_file_name: Path
     target_column: str
-    mlflow_uri: str
+    #mlflow_uri: str

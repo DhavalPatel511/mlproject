@@ -545,3 +545,463 @@ x=====x]
 [2024-11-11 22:06:53,391: INFO: main: >>>>> stage  Model Evaluation Stage completed <<<<<
 
 x=====x]
+[2024-11-12 18:53:50,433: INFO: _internal: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://10.0.0.25:8080]
+[2024-11-12 18:53:50,434: INFO: _internal: [33mPress CTRL+C to quit[0m]
+[2024-11-12 18:53:50,438: INFO: _internal:  * Restarting with stat]
+[2024-11-12 18:53:51,454: WARNING: _internal:  * Debugger is active!]
+[2024-11-12 18:53:51,454: INFO: _internal:  * Debugger PIN: 113-763-566]
+[2024-11-12 18:54:00,229: INFO: _internal: 127.0.0.1 - - [12/Nov/2024 18:54:00] "GET / HTTP/1.1" 200 -]
+[2024-11-12 18:54:00,250: INFO: _internal: 127.0.0.1 - - [12/Nov/2024 18:54:00] "[33mGET /static/css/styles.css HTTP/1.1[0m" 404 -]
+[2024-11-12 18:54:00,338: INFO: _internal: 127.0.0.1 - - [12/Nov/2024 18:54:00] "GET /static/css2/style.css HTTP/1.1" 200 -]
+[2024-11-12 18:54:00,339: INFO: _internal: 127.0.0.1 - - [12/Nov/2024 18:54:00] "GET /static/js/scripts.js HTTP/1.1" 200 -]
+[2024-11-12 18:54:00,339: INFO: _internal: 127.0.0.1 - - [12/Nov/2024 18:54:00] "GET /static/css2/nunito-font.css HTTP/1.1" 200 -]
+[2024-11-12 18:54:00,510: INFO: _internal: 127.0.0.1 - - [12/Nov/2024 18:54:00] "[33mGET /static/assets/img/wine.jpg HTTP/1.1[0m" 404 -]
+[2024-11-12 18:54:00,512: INFO: _internal: 127.0.0.1 - - [12/Nov/2024 18:54:00] "[33mGET /static/assets/img/form-v9.jpg HTTP/1.1[0m" 404 -]
+[2024-11-12 18:54:00,516: INFO: _internal: 127.0.0.1 - - [12/Nov/2024 18:54:00] "[33mGET /static/fonts/Nunito/Nunito-Bold.ttf HTTP/1.1[0m" 404 -]
+[2024-11-12 18:54:00,540: INFO: _internal: 127.0.0.1 - - [12/Nov/2024 18:54:00] "[33mGET /static/assets/favicon.ico HTTP/1.1[0m" 404 -]
+[2024-11-12 18:54:18,523: INFO: _internal: 127.0.0.1 - - [12/Nov/2024 18:54:18] "POST /predict HTTP/1.1" 200 -]
+[2024-11-12 18:54:18,559: INFO: _internal: 127.0.0.1 - - [12/Nov/2024 18:54:18] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -]
+[2024-11-12 18:55:11,094: INFO: _internal:  * Detected change in 'c:\\users\\dhava\\onedrive\\desktop\\mlproject\\mlproject\\src\\mlProject\\pipeline\\prediction.py', reloading]
+[2024-11-12 18:55:11,189: INFO: _internal:  * Restarting with stat]
+[2024-11-12 18:55:12,091: WARNING: _internal:  * Debugger is active!]
+[2024-11-12 18:55:12,094: INFO: _internal:  * Debugger PIN: 113-763-566]
+[2024-11-12 18:55:32,981: INFO: _internal: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://10.0.0.25:8080]
+[2024-11-12 18:55:32,985: INFO: _internal: [33mPress CTRL+C to quit[0m]
+[2024-11-12 18:55:32,987: INFO: _internal:  * Restarting with stat]
+[2024-11-12 18:55:33,823: WARNING: _internal:  * Debugger is active!]
+[2024-11-12 18:55:33,827: INFO: _internal:  * Debugger PIN: 113-763-566]
+[2024-11-12 18:55:38,306: INFO: _internal: 127.0.0.1 - - [12/Nov/2024 18:55:38] "GET / HTTP/1.1" 200 -]
+[2024-11-12 18:55:38,331: INFO: _internal: 127.0.0.1 - - [12/Nov/2024 18:55:38] "[33mGET /static/css/styles.css HTTP/1.1[0m" 404 -]
+[2024-11-12 18:55:38,377: INFO: _internal: 127.0.0.1 - - [12/Nov/2024 18:55:38] "[33mGET /static/assets/img/wine.jpg HTTP/1.1[0m" 404 -]
+[2024-11-12 18:55:38,420: INFO: _internal: 127.0.0.1 - - [12/Nov/2024 18:55:38] "[36mGET /static/js/scripts.js HTTP/1.1[0m" 304 -]
+[2024-11-12 18:55:38,430: INFO: _internal: 127.0.0.1 - - [12/Nov/2024 18:55:38] "[36mGET /static/css2/nunito-font.css HTTP/1.1[0m" 304 -]
+[2024-11-12 18:55:38,431: INFO: _internal: 127.0.0.1 - - [12/Nov/2024 18:55:38] "[36mGET /static/css2/style.css HTTP/1.1[0m" 304 -]
+[2024-11-12 18:55:38,444: INFO: _internal: 127.0.0.1 - - [12/Nov/2024 18:55:38] "[33mGET /static/assets/img/form-v9.jpg HTTP/1.1[0m" 404 -]
+[2024-11-12 18:55:38,455: INFO: _internal: 127.0.0.1 - - [12/Nov/2024 18:55:38] "[33mGET /static/fonts/Nunito/Nunito-Bold.ttf HTTP/1.1[0m" 404 -]
+[2024-11-12 18:55:54,950: INFO: _internal: 127.0.0.1 - - [12/Nov/2024 18:55:54] "POST /predict HTTP/1.1" 200 -]
+[2024-11-12 18:56:18,762: INFO: _internal: 127.0.0.1 - - [12/Nov/2024 18:56:18] "POST /predict HTTP/1.1" 200 -]
+[2024-11-12 19:00:32,431: INFO: _internal: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://10.0.0.25:8080]
+[2024-11-12 19:00:32,432: INFO: _internal: [33mPress CTRL+C to quit[0m]
+[2024-11-12 19:00:32,435: INFO: _internal:  * Restarting with stat]
+[2024-11-12 19:00:33,346: WARNING: _internal:  * Debugger is active!]
+[2024-11-12 19:00:33,350: INFO: _internal:  * Debugger PIN: 113-763-566]
+[2024-11-12 19:00:37,176: INFO: _internal: 127.0.0.1 - - [12/Nov/2024 19:00:37] "GET / HTTP/1.1" 200 -]
+[2024-11-12 19:00:37,196: INFO: _internal: 127.0.0.1 - - [12/Nov/2024 19:00:37] "[33mGET /static/css/styles.css HTTP/1.1[0m" 404 -]
+[2024-11-12 19:00:37,229: INFO: _internal: 127.0.0.1 - - [12/Nov/2024 19:00:37] "[33mGET /static/assets/img/wine.jpg HTTP/1.1[0m" 404 -]
+[2024-11-12 19:00:37,287: INFO: _internal: 127.0.0.1 - - [12/Nov/2024 19:00:37] "[36mGET /static/js/scripts.js HTTP/1.1[0m" 304 -]
+[2024-11-12 19:00:37,295: INFO: _internal: 127.0.0.1 - - [12/Nov/2024 19:00:37] "[36mGET /static/css2/style.css HTTP/1.1[0m" 304 -]
+[2024-11-12 19:00:37,296: INFO: _internal: 127.0.0.1 - - [12/Nov/2024 19:00:37] "[36mGET /static/css2/nunito-font.css HTTP/1.1[0m" 304 -]
+[2024-11-12 19:00:37,306: INFO: _internal: 127.0.0.1 - - [12/Nov/2024 19:00:37] "[33mGET /static/assets/img/form-v9.jpg HTTP/1.1[0m" 404 -]
+[2024-11-12 19:00:37,318: INFO: _internal: 127.0.0.1 - - [12/Nov/2024 19:00:37] "[33mGET /static/fonts/Nunito/Nunito-Bold.ttf HTTP/1.1[0m" 404 -]
+[2024-11-12 19:01:01,573: INFO: main: >>>>> stage Data Ingestion Stage started <<<<<]
+[2024-11-12 19:01:01,576: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-11-12 19:01:01,577: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-11-12 19:01:01,578: INFO: common: yaml file: schema.yaml loaded successfully]
+[2024-11-12 19:01:01,579: INFO: common: created directory at: artifacts]
+[2024-11-12 19:01:01,579: INFO: common: created directory at: artifacts/data_ingestion]
+[2024-11-12 19:01:01,579: INFO: data_ingestion: File already exists of size: ~ 23 KB]
+[2024-11-12 19:01:01,596: INFO: main: >>>>> stage Data Ingestion Stage completed <<<<<
+
+x=======x]
+[2024-11-12 19:01:01,597: INFO: main: >>>>> stage Data Validation Stage started <<<<<]
+[2024-11-12 19:01:01,599: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-11-12 19:01:01,601: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-11-12 19:01:01,603: INFO: common: yaml file: schema.yaml loaded successfully]
+[2024-11-12 19:01:01,604: INFO: common: created directory at: artifacts]
+[2024-11-12 19:01:01,605: INFO: common: created directory at: artifacts/data_validation]
+[2024-11-12 19:01:01,628: INFO: main: >>>>> stage Data Validation Stage completed <<<<<
+
+x=====x]
+[2024-11-12 19:01:01,629: INFO: main: >>>>> stage Data Transformation Stage started <<<<<]
+[2024-11-12 19:01:01,643: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-11-12 19:01:01,643: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-11-12 19:01:01,646: INFO: common: yaml file: schema.yaml loaded successfully]
+[2024-11-12 19:01:01,647: INFO: common: created directory at: artifacts]
+[2024-11-12 19:01:01,647: INFO: common: created directory at: artifacts/data_transformation]
+[2024-11-12 19:01:01,670: INFO: data_transformation: Splittted data into training and test sets]
+[2024-11-12 19:01:01,670: INFO: data_transformation: (1199, 12)]
+[2024-11-12 19:01:01,670: INFO: data_transformation: (400, 12)]
+[2024-11-12 19:01:01,673: INFO: main: >>>>> stage Data Transformation Stage completed <<<<<
+
+x=====x]
+[2024-11-12 19:01:01,673: INFO: main: >>>>> stage Model Trainer Stage started <<<<<]
+[2024-11-12 19:01:01,673: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-11-12 19:01:01,673: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-11-12 19:01:01,673: INFO: common: yaml file: schema.yaml loaded successfully]
+[2024-11-12 19:01:01,673: INFO: common: created directory at: artifacts]
+[2024-11-12 19:01:01,679: INFO: common: created directory at: artifacts/model_trainer]
+[2024-11-12 19:01:01,710: INFO: main: >>>>> stage Model Trainer Stage completed <<<<<
+
+x=====x]
+[2024-11-12 19:01:01,711: INFO: main: >>>>> stage  Model Evaluation Stage started <<<<<]
+[2024-11-12 19:01:01,713: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-11-12 19:01:01,714: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-11-12 19:01:01,716: INFO: common: yaml file: schema.yaml loaded successfully]
+[2024-11-12 19:01:01,716: INFO: common: created directory at: artifacts]
+[2024-11-12 19:01:01,718: INFO: common: created directory at: artifacts/model_evaluation]
+[2024-11-12 19:01:02,046: INFO: _internal: 127.0.0.1 - - [12/Nov/2024 19:01:02] "POST /predict HTTP/1.1" 200 -]
+[2024-11-12 19:01:02,578: INFO: common: json file saved at: artifacts\model_evaluation\metrics.json]
+[2024-11-12 19:01:12,015: INFO: main: >>>>> stage  Model Evaluation Stage completed <<<<<
+
+x=====x]
+[2024-11-12 19:01:12,304: INFO: _internal: 127.0.0.1 - - [12/Nov/2024 19:01:12] "GET /train HTTP/1.1" 200 -]
+[2024-11-12 19:01:37,657: INFO: _internal: 127.0.0.1 - - [12/Nov/2024 19:01:37] "POST /predict HTTP/1.1" 200 -]
+[2024-11-12 19:16:13,114: INFO: _internal: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://10.0.0.25:8080]
+[2024-11-12 19:16:13,114: INFO: _internal: [33mPress CTRL+C to quit[0m]
+[2024-11-12 19:16:13,128: INFO: _internal:  * Restarting with stat]
+[2024-11-12 19:16:13,957: WARNING: _internal:  * Debugger is active!]
+[2024-11-12 19:16:13,961: INFO: _internal:  * Debugger PIN: 113-763-566]
+[2024-11-12 19:16:17,851: INFO: _internal: 127.0.0.1 - - [12/Nov/2024 19:16:17] "GET / HTTP/1.1" 200 -]
+[2024-11-12 19:16:17,872: INFO: _internal: 127.0.0.1 - - [12/Nov/2024 19:16:17] "[33mGET /static/css/styles.css HTTP/1.1[0m" 404 -]
+[2024-11-12 19:16:17,906: INFO: _internal: 127.0.0.1 - - [12/Nov/2024 19:16:17] "[33mGET /static/assets/img/wine.jpg HTTP/1.1[0m" 404 -]
+[2024-11-12 19:16:17,954: INFO: _internal: 127.0.0.1 - - [12/Nov/2024 19:16:17] "[36mGET /static/js/scripts.js HTTP/1.1[0m" 304 -]
+[2024-11-12 19:16:17,969: INFO: _internal: 127.0.0.1 - - [12/Nov/2024 19:16:17] "GET /static/css2/nunito-font.css HTTP/1.1" 200 -]
+[2024-11-12 19:16:17,970: INFO: _internal: 127.0.0.1 - - [12/Nov/2024 19:16:17] "GET /static/css2/style.css HTTP/1.1" 200 -]
+[2024-11-12 19:16:17,975: INFO: _internal: 127.0.0.1 - - [12/Nov/2024 19:16:17] "[33mGET /static/assets/img/form-v9.jpg HTTP/1.1[0m" 404 -]
+[2024-11-12 19:16:17,994: INFO: _internal: 127.0.0.1 - - [12/Nov/2024 19:16:17] "[33mGET /static/fonts/Nunito/Nunito-Bold.ttf HTTP/1.1[0m" 404 -]
+[2024-11-12 19:16:30,048: INFO: _internal: 127.0.0.1 - - [12/Nov/2024 19:16:30] "POST /predict HTTP/1.1" 200 -]
+[2024-11-12 19:19:20,083: INFO: main: >>>>> stage Data Ingestion Stage started <<<<<]
+[2024-11-12 19:19:20,083: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-11-12 19:19:20,083: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-11-12 19:19:20,090: INFO: common: yaml file: schema.yaml loaded successfully]
+[2024-11-12 19:19:20,090: INFO: common: created directory at: artifacts]
+[2024-11-12 19:19:20,093: INFO: common: created directory at: artifacts/data_ingestion]
+[2024-11-12 19:19:20,094: INFO: data_ingestion: File already exists of size: ~ 23 KB]
+[2024-11-12 19:19:20,096: INFO: main: >>>>> stage Data Ingestion Stage completed <<<<<
+
+x=======x]
+[2024-11-12 19:19:20,099: INFO: main: >>>>> stage Data Validation Stage started <<<<<]
+[2024-11-12 19:19:20,101: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-11-12 19:19:20,102: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-11-12 19:19:20,104: INFO: common: yaml file: schema.yaml loaded successfully]
+[2024-11-12 19:19:20,106: INFO: common: created directory at: artifacts]
+[2024-11-12 19:19:20,107: INFO: common: created directory at: artifacts/data_validation]
+[2024-11-12 19:19:20,125: INFO: main: >>>>> stage Data Validation Stage completed <<<<<
+
+x=====x]
+[2024-11-12 19:19:20,126: INFO: main: >>>>> stage Data Transformation Stage started <<<<<]
+[2024-11-12 19:19:20,129: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-11-12 19:19:20,129: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-11-12 19:19:20,135: INFO: common: yaml file: schema.yaml loaded successfully]
+[2024-11-12 19:19:20,136: INFO: common: created directory at: artifacts]
+[2024-11-12 19:19:20,136: INFO: common: created directory at: artifacts/data_transformation]
+[2024-11-12 19:19:20,155: INFO: data_transformation: Splittted data into training and test sets]
+[2024-11-12 19:19:20,156: INFO: data_transformation: (1199, 12)]
+[2024-11-12 19:19:20,157: INFO: data_transformation: (400, 12)]
+[2024-11-12 19:19:20,158: INFO: main: >>>>> stage Data Transformation Stage completed <<<<<
+
+x=====x]
+[2024-11-12 19:19:20,159: INFO: main: >>>>> stage Model Trainer Stage started <<<<<]
+[2024-11-12 19:19:20,160: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-11-12 19:19:20,161: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-11-12 19:19:20,163: INFO: common: yaml file: schema.yaml loaded successfully]
+[2024-11-12 19:19:20,164: INFO: common: created directory at: artifacts]
+[2024-11-12 19:19:20,165: INFO: common: created directory at: artifacts/model_trainer]
+[2024-11-12 19:19:20,195: INFO: main: >>>>> stage Model Trainer Stage completed <<<<<
+
+x=====x]
+[2024-11-12 19:19:20,195: INFO: main: >>>>> stage  Model Evaluation Stage started <<<<<]
+[2024-11-12 19:19:20,195: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-11-12 19:19:20,195: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-11-12 19:19:20,195: INFO: common: yaml file: schema.yaml loaded successfully]
+[2024-11-12 19:19:20,195: INFO: common: created directory at: artifacts]
+[2024-11-12 19:19:20,195: INFO: common: created directory at: artifacts/model_evaluation]
+[2024-11-12 19:19:20,891: INFO: common: json file saved at: artifacts\model_evaluation\metrics.json]
+[2024-11-12 19:19:25,864: INFO: main: >>>>> stage  Model Evaluation Stage completed <<<<<
+
+x=====x]
+[2024-11-12 19:20:28,856: INFO: main: >>>>> stage Data Ingestion Stage started <<<<<]
+[2024-11-12 19:20:28,856: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-11-12 19:20:28,856: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-11-12 19:20:28,873: INFO: common: yaml file: schema.yaml loaded successfully]
+[2024-11-12 19:20:28,874: INFO: common: created directory at: artifacts]
+[2024-11-12 19:20:28,875: INFO: common: created directory at: artifacts/data_ingestion]
+[2024-11-12 19:20:29,687: INFO: data_ingestion: artifacts/data_ingestion/data.zip download! with following info: 
+Connection: close
+Content-Length: 23329
+Cache-Control: max-age=300
+Content-Security-Policy: default-src 'none'; style-src 'unsafe-inline'; sandbox
+Content-Type: application/zip
+ETag: "c69888a4ae59bc5a893392785a938ccd4937981c06ba8a9d6a21aa52b4ab5b6e"
+Strict-Transport-Security: max-age=31536000
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-XSS-Protection: 1; mode=block
+X-GitHub-Request-Id: 57B7:31B019:11F8DE:13394F:6733F0C5
+Accept-Ranges: bytes
+Date: Wed, 13 Nov 2024 00:20:28 GMT
+Via: 1.1 varnish
+X-Served-By: cache-ewr-kewr1740054-EWR
+X-Cache: MISS
+X-Cache-Hits: 0
+X-Timer: S1731457229.564334,VS0,VE134
+Vary: Authorization,Accept-Encoding,Origin
+Access-Control-Allow-Origin: *
+Cross-Origin-Resource-Policy: cross-origin
+X-Fastly-Request-ID: 783e99553cb5de0e0ea64bddae4081c44db6e89a
+Expires: Wed, 13 Nov 2024 00:25:28 GMT
+Source-Age: 0
+
+]
+[2024-11-12 19:20:29,705: INFO: main: >>>>> stage Data Ingestion Stage completed <<<<<
+
+x=======x]
+[2024-11-12 19:20:29,706: INFO: main: >>>>> stage Data Validation Stage started <<<<<]
+[2024-11-12 19:20:29,708: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-11-12 19:20:29,710: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-11-12 19:20:29,713: INFO: common: yaml file: schema.yaml loaded successfully]
+[2024-11-12 19:20:29,714: INFO: common: created directory at: artifacts]
+[2024-11-12 19:20:29,715: INFO: common: created directory at: artifacts/data_validation]
+[2024-11-12 19:20:29,723: INFO: main: >>>>> stage Data Validation Stage completed <<<<<
+
+x=====x]
+[2024-11-12 19:20:29,723: INFO: main: >>>>> stage Data Transformation Stage started <<<<<]
+[2024-11-12 19:20:29,739: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-11-12 19:20:29,741: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-11-12 19:20:29,741: INFO: common: yaml file: schema.yaml loaded successfully]
+[2024-11-12 19:20:29,741: INFO: common: created directory at: artifacts]
+[2024-11-12 19:20:29,741: INFO: common: created directory at: artifacts/data_transformation]
+[2024-11-12 19:20:29,756: INFO: data_transformation: Splittted data into training and test sets]
+[2024-11-12 19:20:29,756: INFO: data_transformation: (1199, 12)]
+[2024-11-12 19:20:29,756: INFO: data_transformation: (400, 12)]
+[2024-11-12 19:20:29,756: INFO: main: >>>>> stage Data Transformation Stage completed <<<<<
+
+x=====x]
+[2024-11-12 19:20:29,770: INFO: main: >>>>> stage Model Trainer Stage started <<<<<]
+[2024-11-12 19:20:29,773: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-11-12 19:20:29,775: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-11-12 19:20:29,776: INFO: common: yaml file: schema.yaml loaded successfully]
+[2024-11-12 19:20:29,776: INFO: common: created directory at: artifacts]
+[2024-11-12 19:20:29,776: INFO: common: created directory at: artifacts/model_trainer]
+[2024-11-12 19:20:29,812: INFO: main: >>>>> stage Model Trainer Stage completed <<<<<
+
+x=====x]
+[2024-11-12 19:20:29,813: INFO: main: >>>>> stage  Model Evaluation Stage started <<<<<]
+[2024-11-12 19:20:29,813: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-11-12 19:20:29,813: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-11-12 19:20:29,819: INFO: common: yaml file: schema.yaml loaded successfully]
+[2024-11-12 19:20:29,820: INFO: common: created directory at: artifacts]
+[2024-11-12 19:20:29,820: INFO: common: created directory at: artifacts/model_evaluation]
+[2024-11-12 19:20:30,589: INFO: common: json file saved at: artifacts\model_evaluation\metrics.json]
+[2024-11-12 19:20:35,865: INFO: main: >>>>> stage  Model Evaluation Stage completed <<<<<
+
+x=====x]
+[2024-11-12 19:21:13,975: INFO: _internal: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://10.0.0.25:8080]
+[2024-11-12 19:21:13,992: INFO: _internal: [33mPress CTRL+C to quit[0m]
+[2024-11-12 19:21:13,995: INFO: _internal:  * Restarting with stat]
+[2024-11-12 19:21:14,827: WARNING: _internal:  * Debugger is active!]
+[2024-11-12 19:21:14,831: INFO: _internal:  * Debugger PIN: 113-763-566]
+[2024-11-12 19:21:17,651: INFO: _internal: 127.0.0.1 - - [12/Nov/2024 19:21:17] "GET / HTTP/1.1" 200 -]
+[2024-11-12 19:21:17,672: INFO: _internal: 127.0.0.1 - - [12/Nov/2024 19:21:17] "[33mGET /static/css/styles.css HTTP/1.1[0m" 404 -]
+[2024-11-12 19:21:17,705: INFO: _internal: 127.0.0.1 - - [12/Nov/2024 19:21:17] "[33mGET /static/assets/img/wine.jpg HTTP/1.1[0m" 404 -]
+[2024-11-12 19:21:17,773: INFO: _internal: 127.0.0.1 - - [12/Nov/2024 19:21:17] "[36mGET /static/js/scripts.js HTTP/1.1[0m" 304 -]
+[2024-11-12 19:21:17,775: INFO: _internal: 127.0.0.1 - - [12/Nov/2024 19:21:17] "[36mGET /static/css2/style.css HTTP/1.1[0m" 304 -]
+[2024-11-12 19:21:17,776: INFO: _internal: 127.0.0.1 - - [12/Nov/2024 19:21:17] "[36mGET /static/css2/nunito-font.css HTTP/1.1[0m" 304 -]
+[2024-11-12 19:21:17,786: INFO: _internal: 127.0.0.1 - - [12/Nov/2024 19:21:17] "[33mGET /static/assets/img/form-v9.jpg HTTP/1.1[0m" 404 -]
+[2024-11-12 19:21:17,803: INFO: _internal: 127.0.0.1 - - [12/Nov/2024 19:21:17] "[33mGET /static/fonts/Nunito/Nunito-Bold.ttf HTTP/1.1[0m" 404 -]
+[2024-11-12 19:21:32,708: INFO: _internal: 127.0.0.1 - - [12/Nov/2024 19:21:32] "POST /predict HTTP/1.1" 200 -]
+[2024-11-12 19:27:02,228: INFO: main: >>>>> stage Data Ingestion Stage started <<<<<]
+[2024-11-12 19:27:02,228: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-11-12 19:27:02,228: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-11-12 19:27:02,228: INFO: common: yaml file: schema.yaml loaded successfully]
+[2024-11-12 19:27:02,242: INFO: common: created directory at: artifacts]
+[2024-11-12 19:27:02,243: INFO: common: created directory at: artifacts/data_ingestion]
+[2024-11-12 19:27:02,955: INFO: data_ingestion: artifacts/data_ingestion/data.zip download! with following info: 
+Connection: close
+Content-Length: 23329
+Cache-Control: max-age=300
+Content-Security-Policy: default-src 'none'; style-src 'unsafe-inline'; sandbox
+Content-Type: application/zip
+ETag: "c69888a4ae59bc5a893392785a938ccd4937981c06ba8a9d6a21aa52b4ab5b6e"
+Strict-Transport-Security: max-age=31536000
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-XSS-Protection: 1; mode=block
+X-GitHub-Request-Id: 57B7:31B019:11F8DE:13394F:6733F0C5
+Accept-Ranges: bytes
+Date: Wed, 13 Nov 2024 00:27:01 GMT
+Via: 1.1 varnish
+X-Served-By: cache-ewr-kewr1740030-EWR
+X-Cache: HIT
+X-Cache-Hits: 0
+X-Timer: S1731457622.880014,VS0,VE75
+Vary: Authorization,Accept-Encoding,Origin
+Access-Control-Allow-Origin: *
+Cross-Origin-Resource-Policy: cross-origin
+X-Fastly-Request-ID: fc41f064db955f00ceb27ac24f6976fd0cbb4524
+Expires: Wed, 13 Nov 2024 00:32:01 GMT
+Source-Age: 0
+
+]
+[2024-11-12 19:27:02,974: INFO: main: >>>>> stage Data Ingestion Stage completed <<<<<
+
+x=======x]
+[2024-11-12 19:27:02,974: INFO: main: >>>>> stage Data Validation Stage started <<<<<]
+[2024-11-12 19:27:02,978: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-11-12 19:27:02,979: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-11-12 19:27:02,979: INFO: common: yaml file: schema.yaml loaded successfully]
+[2024-11-12 19:27:02,979: INFO: common: created directory at: artifacts]
+[2024-11-12 19:27:02,979: INFO: common: created directory at: artifacts/data_validation]
+[2024-11-12 19:27:02,994: INFO: main: >>>>> stage Data Validation Stage completed <<<<<
+
+x=====x]
+[2024-11-12 19:27:02,994: INFO: main: >>>>> stage Data Transformation Stage started <<<<<]
+[2024-11-12 19:27:03,006: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-11-12 19:27:03,008: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-11-12 19:27:03,010: INFO: common: yaml file: schema.yaml loaded successfully]
+[2024-11-12 19:27:03,010: INFO: common: created directory at: artifacts]
+[2024-11-12 19:27:03,012: INFO: common: created directory at: artifacts/data_transformation]
+[2024-11-12 19:27:03,029: INFO: data_transformation: Splittted data into training and test sets]
+[2024-11-12 19:27:03,029: INFO: data_transformation: (1199, 12)]
+[2024-11-12 19:27:03,029: INFO: data_transformation: (400, 12)]
+[2024-11-12 19:27:03,029: INFO: main: >>>>> stage Data Transformation Stage completed <<<<<
+
+x=====x]
+[2024-11-12 19:27:03,029: INFO: main: >>>>> stage Model Trainer Stage started <<<<<]
+[2024-11-12 19:27:03,038: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-11-12 19:27:03,038: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-11-12 19:27:03,043: INFO: common: yaml file: schema.yaml loaded successfully]
+[2024-11-12 19:27:03,044: INFO: common: created directory at: artifacts]
+[2024-11-12 19:27:03,044: INFO: common: created directory at: artifacts/model_trainer]
+[2024-11-12 19:27:03,071: INFO: main: >>>>> stage Model Trainer Stage completed <<<<<
+
+x=====x]
+[2024-11-12 19:27:03,071: INFO: main: >>>>> stage  Model Evaluation Stage started <<<<<]
+[2024-11-12 19:27:03,071: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-11-12 19:27:03,071: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-11-12 19:27:03,087: INFO: common: yaml file: schema.yaml loaded successfully]
+[2024-11-12 19:27:03,088: INFO: common: created directory at: artifacts]
+[2024-11-12 19:27:03,088: INFO: common: created directory at: artifacts/model_evaluation]
+[2024-11-12 19:27:03,920: INFO: common: json file saved at: artifacts\model_evaluation\metrics.json]
+[2024-11-12 19:27:03,930: INFO: main: >>>>> stage  Model Evaluation Stage completed <<<<<
+
+x=====x]
+[2024-11-12 19:27:40,736: INFO: _internal: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://10.0.0.25:8080]
+[2024-11-12 19:27:40,739: INFO: _internal: [33mPress CTRL+C to quit[0m]
+[2024-11-12 19:27:40,741: INFO: _internal:  * Restarting with stat]
+[2024-11-12 19:27:41,645: WARNING: _internal:  * Debugger is active!]
+[2024-11-12 19:27:41,661: INFO: _internal:  * Debugger PIN: 113-763-566]
+[2024-11-12 19:27:44,220: INFO: _internal: 127.0.0.1 - - [12/Nov/2024 19:27:44] "GET / HTTP/1.1" 200 -]
+[2024-11-12 19:27:44,244: INFO: _internal: 127.0.0.1 - - [12/Nov/2024 19:27:44] "[33mGET /static/css/styles.css HTTP/1.1[0m" 404 -]
+[2024-11-12 19:27:44,294: INFO: _internal: 127.0.0.1 - - [12/Nov/2024 19:27:44] "[33mGET /static/assets/img/wine.jpg HTTP/1.1[0m" 404 -]
+[2024-11-12 19:27:44,328: INFO: _internal: 127.0.0.1 - - [12/Nov/2024 19:27:44] "[36mGET /static/js/scripts.js HTTP/1.1[0m" 304 -]
+[2024-11-12 19:27:44,356: INFO: _internal: 127.0.0.1 - - [12/Nov/2024 19:27:44] "[36mGET /static/css2/style.css HTTP/1.1[0m" 304 -]
+[2024-11-12 19:27:44,360: INFO: _internal: 127.0.0.1 - - [12/Nov/2024 19:27:44] "[36mGET /static/css2/nunito-font.css HTTP/1.1[0m" 304 -]
+[2024-11-12 19:27:44,369: INFO: _internal: 127.0.0.1 - - [12/Nov/2024 19:27:44] "[33mGET /static/assets/img/form-v9.jpg HTTP/1.1[0m" 404 -]
+[2024-11-12 19:27:44,388: INFO: _internal: 127.0.0.1 - - [12/Nov/2024 19:27:44] "[33mGET /static/fonts/Nunito/Nunito-Bold.ttf HTTP/1.1[0m" 404 -]
+[2024-11-12 19:27:57,889: INFO: _internal: 127.0.0.1 - - [12/Nov/2024 19:27:57] "POST /predict HTTP/1.1" 200 -]
+[2024-11-12 19:29:24,210: INFO: _internal: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://10.0.0.25:8080]
+[2024-11-12 19:29:24,210: INFO: _internal: [33mPress CTRL+C to quit[0m]
+[2024-11-12 19:29:24,217: INFO: _internal:  * Restarting with stat]
+[2024-11-12 19:29:25,234: WARNING: _internal:  * Debugger is active!]
+[2024-11-12 19:29:25,238: INFO: _internal:  * Debugger PIN: 113-763-566]
+[2024-11-12 19:29:28,834: INFO: _internal: 127.0.0.1 - - [12/Nov/2024 19:29:28] "GET / HTTP/1.1" 200 -]
+[2024-11-12 19:29:28,993: INFO: _internal: 127.0.0.1 - - [12/Nov/2024 19:29:28] "GET /static/css/styles.css HTTP/1.1" 200 -]
+[2024-11-12 19:29:29,018: INFO: _internal: 127.0.0.1 - - [12/Nov/2024 19:29:29] "[36mGET /static/css2/nunito-font.css HTTP/1.1[0m" 304 -]
+[2024-11-12 19:29:29,023: INFO: _internal: 127.0.0.1 - - [12/Nov/2024 19:29:29] "[33mGET /static/assets/img/wine.jpg HTTP/1.1[0m" 404 -]
+[2024-11-12 19:29:29,031: INFO: _internal: 127.0.0.1 - - [12/Nov/2024 19:29:29] "[36mGET /static/js/scripts.js HTTP/1.1[0m" 304 -]
+[2024-11-12 19:29:29,033: INFO: _internal: 127.0.0.1 - - [12/Nov/2024 19:29:29] "[36mGET /static/css2/style.css HTTP/1.1[0m" 304 -]
+[2024-11-12 19:29:29,080: INFO: _internal: 127.0.0.1 - - [12/Nov/2024 19:29:29] "[33mGET /static/assets/img/form-v9.jpg HTTP/1.1[0m" 404 -]
+[2024-11-12 19:29:29,102: INFO: _internal: 127.0.0.1 - - [12/Nov/2024 19:29:29] "[33mGET /static/fonts/Nunito/Nunito-Bold.ttf HTTP/1.1[0m" 404 -]
+[2024-11-12 19:29:46,677: INFO: _internal: 127.0.0.1 - - [12/Nov/2024 19:29:46] "POST /predict HTTP/1.1" 200 -]
+[2024-11-12 19:46:09,468: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-11-12 19:46:09,468: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-11-12 19:46:09,479: INFO: common: yaml file: schema.yaml loaded successfully]
+[2024-11-12 19:46:09,481: INFO: common: created directory at: artifacts]
+[2024-11-12 19:46:09,482: INFO: common: created directory at: artifacts/model_trainer]
+[2024-11-12 19:51:53,950: INFO: _internal: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://10.0.0.25:8080]
+[2024-11-12 19:51:53,950: INFO: _internal: [33mPress CTRL+C to quit[0m]
+[2024-11-12 19:51:53,960: INFO: _internal:  * Restarting with stat]
+[2024-11-12 19:51:54,748: WARNING: _internal:  * Debugger is active!]
+[2024-11-12 19:51:54,764: INFO: _internal:  * Debugger PIN: 113-763-566]
+[2024-11-12 19:51:57,711: INFO: _internal: 127.0.0.1 - - [12/Nov/2024 19:51:57] "GET / HTTP/1.1" 200 -]
+[2024-11-12 19:51:57,842: INFO: _internal: 127.0.0.1 - - [12/Nov/2024 19:51:57] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -]
+[2024-11-12 19:51:57,861: INFO: _internal: 127.0.0.1 - - [12/Nov/2024 19:51:57] "[33mGET /static/assets/img/wine.jpg HTTP/1.1[0m" 404 -]
+[2024-11-12 19:51:57,871: INFO: _internal: 127.0.0.1 - - [12/Nov/2024 19:51:57] "[36mGET /static/js/scripts.js HTTP/1.1[0m" 304 -]
+[2024-11-12 19:51:57,873: INFO: _internal: 127.0.0.1 - - [12/Nov/2024 19:51:57] "[36mGET /static/css2/style.css HTTP/1.1[0m" 304 -]
+[2024-11-12 19:51:57,878: INFO: _internal: 127.0.0.1 - - [12/Nov/2024 19:51:57] "[36mGET /static/css2/nunito-font.css HTTP/1.1[0m" 304 -]
+[2024-11-12 19:51:57,901: INFO: _internal: 127.0.0.1 - - [12/Nov/2024 19:51:57] "GET /static/assets/img/form-v9.jpg HTTP/1.1" 200 -]
+[2024-11-12 19:51:57,933: INFO: _internal: 127.0.0.1 - - [12/Nov/2024 19:51:57] "[33mGET /static/fonts/Nunito/Nunito-Bold.ttf HTTP/1.1[0m" 404 -]
+[2024-11-12 19:52:12,578: INFO: _internal: 127.0.0.1 - - [12/Nov/2024 19:52:12] "POST /predict HTTP/1.1" 200 -]
+[2024-11-12 20:02:40,641: INFO: _internal: 127.0.0.1 - - [12/Nov/2024 20:02:40] "POST /predict HTTP/1.1" 200 -]
+[2024-11-12 20:06:54,752: INFO: _internal: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://10.0.0.25:8080]
+[2024-11-12 20:06:54,753: INFO: _internal: [33mPress CTRL+C to quit[0m]
+[2024-11-12 20:06:54,756: INFO: _internal:  * Restarting with stat]
+[2024-11-12 20:06:55,925: WARNING: _internal:  * Debugger is active!]
+[2024-11-12 20:06:55,929: INFO: _internal:  * Debugger PIN: 113-763-566]
+[2024-11-12 20:06:58,198: INFO: _internal: 127.0.0.1 - - [12/Nov/2024 20:06:58] "GET / HTTP/1.1" 200 -]
+[2024-11-12 20:06:58,295: INFO: _internal: 127.0.0.1 - - [12/Nov/2024 20:06:58] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -]
+[2024-11-12 20:06:58,315: INFO: _internal: 127.0.0.1 - - [12/Nov/2024 20:06:58] "[33mGET /static/assets/img/wine.jpg HTTP/1.1[0m" 404 -]
+[2024-11-12 20:06:58,345: INFO: _internal: 127.0.0.1 - - [12/Nov/2024 20:06:58] "[36mGET /static/css2/nunito-font.css HTTP/1.1[0m" 304 -]
+[2024-11-12 20:06:58,352: INFO: _internal: 127.0.0.1 - - [12/Nov/2024 20:06:58] "[36mGET /static/js/scripts.js HTTP/1.1[0m" 304 -]
+[2024-11-12 20:06:58,356: INFO: _internal: 127.0.0.1 - - [12/Nov/2024 20:06:58] "[36mGET /static/css2/style.css HTTP/1.1[0m" 304 -]
+[2024-11-12 20:06:58,367: INFO: _internal: 127.0.0.1 - - [12/Nov/2024 20:06:58] "[36mGET /static/assets/img/form-v9.jpg HTTP/1.1[0m" 304 -]
+[2024-11-12 20:06:58,392: INFO: _internal: 127.0.0.1 - - [12/Nov/2024 20:06:58] "[33mGET /static/fonts/Nunito/Nunito-Bold.ttf HTTP/1.1[0m" 404 -]
+[2024-11-12 20:07:19,509: INFO: _internal: 127.0.0.1 - - [12/Nov/2024 20:07:19] "POST /predict HTTP/1.1" 200 -]
+[2024-11-12 20:13:26,623: INFO: _internal: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://10.0.0.25:8080]
+[2024-11-12 20:13:26,623: INFO: _internal: [33mPress CTRL+C to quit[0m]
+[2024-11-12 20:13:26,636: INFO: _internal:  * Restarting with stat]
+[2024-11-12 20:13:27,489: WARNING: _internal:  * Debugger is active!]
+[2024-11-12 20:13:27,492: INFO: _internal:  * Debugger PIN: 113-763-566]
+[2024-11-12 20:13:30,054: INFO: _internal: 127.0.0.1 - - [12/Nov/2024 20:13:30] "GET / HTTP/1.1" 200 -]
+[2024-11-12 20:13:30,154: INFO: _internal: 127.0.0.1 - - [12/Nov/2024 20:13:30] "GET /static/css/styles.css HTTP/1.1" 200 -]
+[2024-11-12 20:13:30,173: INFO: _internal: 127.0.0.1 - - [12/Nov/2024 20:13:30] "[33mGET /static/assets/img/wine.jpg HTTP/1.1[0m" 404 -]
+[2024-11-12 20:13:30,174: INFO: _internal: 127.0.0.1 - - [12/Nov/2024 20:13:30] "GET /static/css2/nunito-font.css HTTP/1.1" 200 -]
+[2024-11-12 20:13:30,183: INFO: _internal: 127.0.0.1 - - [12/Nov/2024 20:13:30] "GET /static/css2/style.css HTTP/1.1" 200 -]
+[2024-11-12 20:13:30,198: INFO: _internal: 127.0.0.1 - - [12/Nov/2024 20:13:30] "GET /static/js/scripts.js HTTP/1.1" 200 -]
+[2024-11-12 20:13:30,216: INFO: _internal: 127.0.0.1 - - [12/Nov/2024 20:13:30] "[36mGET /static/assets/img/form-v9.jpg HTTP/1.1[0m" 304 -]
+[2024-11-12 20:13:30,235: INFO: _internal: 127.0.0.1 - - [12/Nov/2024 20:13:30] "[33mGET /static/fonts/Nunito/Nunito-Bold.ttf HTTP/1.1[0m" 404 -]
+[2024-11-12 20:13:45,211: INFO: _internal: 127.0.0.1 - - [12/Nov/2024 20:13:45] "POST /predict HTTP/1.1" 200 -]
+[2024-11-12 20:13:45,242: INFO: _internal: 127.0.0.1 - - [12/Nov/2024 20:13:45] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -]
+[2024-11-12 20:13:45,243: INFO: _internal: 127.0.0.1 - - [12/Nov/2024 20:13:45] "[36mGET /static/js/scripts.js HTTP/1.1[0m" 304 -]
+[2024-11-12 20:13:45,287: INFO: _internal: 127.0.0.1 - - [12/Nov/2024 20:13:45] "[33mGET /static/assets/img/wine.gif HTTP/1.1[0m" 404 -]
+[2024-11-12 20:17:04,368: INFO: _internal: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://10.0.0.25:8080]
+[2024-11-12 20:17:04,369: INFO: _internal: [33mPress CTRL+C to quit[0m]
+[2024-11-12 20:17:04,371: INFO: _internal:  * Restarting with stat]
+[2024-11-12 20:17:05,277: WARNING: _internal:  * Debugger is active!]
+[2024-11-12 20:17:05,281: INFO: _internal:  * Debugger PIN: 113-763-566]
+[2024-11-12 20:17:09,522: INFO: _internal: 127.0.0.1 - - [12/Nov/2024 20:17:09] "GET / HTTP/1.1" 200 -]
+[2024-11-12 20:17:09,647: INFO: _internal: 127.0.0.1 - - [12/Nov/2024 20:17:09] "GET /static/css/styles.css HTTP/1.1" 200 -]
+[2024-11-12 20:17:09,653: INFO: _internal: 127.0.0.1 - - [12/Nov/2024 20:17:09] "[36mGET /static/js/scripts.js HTTP/1.1[0m" 304 -]
+[2024-11-12 20:17:09,656: INFO: _internal: 127.0.0.1 - - [12/Nov/2024 20:17:09] "[36mGET /static/css2/style.css HTTP/1.1[0m" 304 -]
+[2024-11-12 20:17:09,657: INFO: _internal: 127.0.0.1 - - [12/Nov/2024 20:17:09] "[36mGET /static/css2/nunito-font.css HTTP/1.1[0m" 304 -]
+[2024-11-12 20:17:09,666: INFO: _internal: 127.0.0.1 - - [12/Nov/2024 20:17:09] "[33mGET /static/assets/img/wine.jpg HTTP/1.1[0m" 404 -]
+[2024-11-12 20:17:09,692: INFO: _internal: 127.0.0.1 - - [12/Nov/2024 20:17:09] "[36mGET /static/assets/img/form-v9.jpg HTTP/1.1[0m" 304 -]
+[2024-11-12 20:17:09,716: INFO: _internal: 127.0.0.1 - - [12/Nov/2024 20:17:09] "[33mGET /static/fonts/Nunito/Nunito-Bold.ttf HTTP/1.1[0m" 404 -]
+[2024-11-12 20:17:23,817: INFO: _internal: 127.0.0.1 - - [12/Nov/2024 20:17:23] "POST /predict HTTP/1.1" 200 -]
+[2024-11-12 20:17:23,841: INFO: _internal: 127.0.0.1 - - [12/Nov/2024 20:17:23] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -]
+[2024-11-12 20:17:23,846: INFO: _internal: 127.0.0.1 - - [12/Nov/2024 20:17:23] "[36mGET /static/js/scripts.js HTTP/1.1[0m" 304 -]
+[2024-11-12 20:17:23,859: INFO: _internal: 127.0.0.1 - - [12/Nov/2024 20:17:23] "[33mGET /static/assets/img/wine.gif HTTP/1.1[0m" 404 -]

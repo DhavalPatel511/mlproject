@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/dhava/OneDrive/Desktop/mlproject/mlproject/mlruns/0/482ef316f3c64bb1a8f390791b30ed0e/artifacts
+end_time: 1731457623920
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 482ef316f3c64bb1a8f390791b30ed0e
+run_name: traveling-mule-160
+run_uuid: 482ef316f3c64bb1a8f390791b30ed0e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731457623854
+status: 3
+tags: []
+user_id: dhava

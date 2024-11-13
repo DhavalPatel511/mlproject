@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/dhava/OneDrive/Desktop/mlproject/mlproject/mlruns/0/026f5fdd01e24335925b9380441ec2a7/artifacts
+end_time: 1731456072006
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 026f5fdd01e24335925b9380441ec2a7
+run_name: clean-donkey-655
+run_uuid: 026f5fdd01e24335925b9380441ec2a7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731456062508
+status: 3
+tags: []
+user_id: dhava
